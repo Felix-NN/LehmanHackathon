@@ -1,0 +1,25 @@
+<%
+out.println("<html>");
+out.println("");
+out.println("<head>");
+out.println("    <title>Money Back</title>");
+out.println("</head>");
+out.println("<link rel=\"stylesheet\" href=\"css/style.css\">");
+out.println("<link rel=\"icon\" href=\"https://cdn2.iconfinder.com/data/icons/color-svg-money-icons/512/chargeback_fraud_credit_card-512.png\">");
+out.println("");
+out.println("<body>");
+out.println("   <div class=\"login-wrap\">");
+out.println("       <h1> Welcome to Money back</h1>");
+out.println("  <h2>Login</h2>");
+out.println("  ");
+out.println("  <div class=\"form\">");
+out.println("    <input type=\"text\" placeholder=\"Username\" name=\"un\"/>");
+out.println("    <input type=\"password\" placeholder=\"Password\" name=\"pw\"/>");
+out.println("    <button> Sign in </button>");
+out.println("    <a href=\"#\"> <p> Don't have an account? Register </p></a>");
+out.println("  </div>");
+out.println("</div>");
+out.println("</body>");
+out.println("");
+out.println("</html>");
+%>
